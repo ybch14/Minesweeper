@@ -11,6 +11,7 @@ This project implements minesweeper without GUI. So playing with it may be a lit
 - ```functions.cpp```: some global functions.
 - ```customize.cpp```: the customize mode.
 - ```record.txt```: store game records. 
+- ```main.cpp```: the main function.
 
 ### Note
 
